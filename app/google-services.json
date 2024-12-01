@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670441452320",
+    "project_id": "smd-assignment-arfa",
+    "storage_bucket": "smd-assignment-arfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670441452320:android:94864307c4a47ee2741d45",
+        "android_client_info": {
+          "package_name": "com.example.a4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPqVUAJjt6vgVk1hOIUh-NXoVycd2uwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
